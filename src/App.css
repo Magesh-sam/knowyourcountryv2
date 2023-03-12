@@ -1,0 +1,32 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+html{
+ 
+  background: #fd5;
+}
+
+.countryapp{
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+}
+.searchdiv{
+  display: flex;
+  gap: 30px;
+}
+
+.searchbtn{
+  border: none;
+  background: blue;
+  padding: 15px 40px;
+  color: white;
+  font-weight: bold;
+  border-radius: 15px;
+}
+.backtotop{
+ padding: 0;
+}
